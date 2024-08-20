@@ -4,8 +4,8 @@ metadata:
   name: "react-app"
   description: "new react app template"
   annotations:
-    # github.com/project-slug: ahmedadel2020-code/backstage-react-template-app
-    circleci.com/project-slug: github/ahmedadel2020-code/backstage-react-template-app
+    github.com/project-slug: ahmedadel2020-code/backstage-react-template-app
+    # circleci.com/project-slug: github/ahmedadel2020-code/backstage-react-template-app
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
